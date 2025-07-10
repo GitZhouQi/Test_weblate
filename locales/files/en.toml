@@ -1,12 +1,3 @@
-test="test trans en"
-TestEnDefault="test trans en"
-test_name="test trans en {{.name}}"
-
-Message01="Message 01(en)"
-Message02="Message 02(en)"
-error_msg="en error_msg"
-
-common_error_msg = "We’re temporarily limiting access to Clapper to ensure smooth performance. Please try again later."
 
 [item]
 cannot_edit_than_7_days_ago = "Cannot edit videos posted more than 7 days ago."
