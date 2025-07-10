@@ -1,0 +1,16 @@
+vendor/
+tmp/
+runtime/
+_runtime/
+.DS_Store
+logs/
+v/
+.idea/
+
+
+.vscode/
+coverage.out
+mars-item-go
+
+coverage.html
+utils/file/E:/

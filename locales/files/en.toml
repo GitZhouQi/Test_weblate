@@ -1,0 +1,64 @@
+test="test trans en"
+TestEnDefault="test trans en"
+test_name="test trans en {{.name}}"
+
+Message01="Message 01(en)"
+Message02="Message 02(en)"
+error_msg="en error_msg"
+
+common_error_msg = "We’re temporarily limiting access to Clapper to ensure smooth performance. Please try again later."
+
+[item]
+cannot_edit_than_7_days_ago = "Cannot edit videos posted more than 7 days ago."
+cannot_edit_once_a_day = "Can only be edited once a day."
+edit_description_up_to_3_times = "Edit description up to 3 times."
+item_not_available = "The video was not available. If you have any questions, please contact contact@clapperapp.com."
+my_item_disapproved = "This video was taken down due to violation of the community guidelines. You can delete it or you can appeal if you have further questions."
+item_disapproved = "This video was taken down due to violation of the community guidelines. If you have any questions, please contact contact@newclapper.com."
+item_deleted = "The video was deleted by creator."
+item_update_to_watch = "You must update Clapper to watch this video."
+item_unlock_not_available = "This function is not available, video cannot be unlocked."
+item_not_unlocked = "Video Not Unlocked"
+user_blocked = "You've blocked this user and unable to view this user's videos and comments."
+blocked_by_you_profile = "You've been blocked by this user and unable to view this user's videos and comments."
+video_not_allow_download = "This video is not allowed to be downloaded."
+appeal_lock = "Failed, please retry."
+appeal_invalid_state = "Invalid state"
+stick_top_max = "Up to 3 videos can be pinned."
+item_price_not_allowed = "Sorry, price cannot be set at this time."
+appeal_limited = "We are sorry you were not able to dispute again since you have appealed twice."
+appeal_process = "Your Appeal is Being Processed, please wait patiently for the result of the appeal."
+
+
+
+[music]
+original_sound = "Original Sound"
+unknown_creator = "Unknown creator"
+sound_alleged_copyright = "The sound alleged copyright violations"
+name_exists = "name exists."
+tag_id_error = "tag_id error"
+unusable_sound = "Unusable sound."
+
+
+[error]
+unexpected_error = "An unexpected error occurred. Please try again later."
+
+[series]
+limit_exceeded = "Create up to 20 Mini Series."
+item_limit_exceeded = "Up to 100 videos in a Mini Series."
+item_limit_exceeded_tip = "A Mini Series can contain up to 100 videos."
+discount_text = "Unlock later episodes for 90% off"
+discount_tag_text = "90%OFF"
+modify_visible = "Series videos cannot modify the visible range"
+deleted = "The Mini Series has been deleted."
+insufficient_balance = "Insufficient Balance"
+
+[user]
+not_exist = "This user doesn't exist."
+alert = "Your account has been disabled for violating our policies. Please contact contact@newsclapper.com for more information."
+token_expired = "Your session has expired. Please log in again."
+account_disabled = "This account has been disabled."
+account_deactivated = "This account has been deactivated."
+hidden = "This account is hidden."
+wait_sms_verify = "Please verify your phone number."
+password_changed = "The password of your account has been changed, please login again."

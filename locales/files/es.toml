@@ -1,0 +1,48 @@
+test="test trans es"
+TestEnDefault="test trans es"
+test_name="test trans es {{.name}}"
+
+Message01="Message 01(es)"
+Message02="Message 02(es)"
+error_msg="es error_msg"
+
+common_error_msg = "We’re temporarily limiting access to Clapper to ensure smooth performance. Please try again later."
+
+[item]
+cannot_edit_than_7_days_ago = "No se pueden editar videos publicados hace más de 7 días."
+cannot_edit_once_a_day = "Solo se puede editar una vez al día."
+edit_description_up_to_3_times = "Edite la descripción hasta 3 veces."
+item_not_available = "El video no estaba disponible. Si tienes alguna pregunta, ponte en contacto con contact@clapperapp.com."
+my_item_disapproved = "Este video fue retirado debido a la violación de las pautas de la comunidad. Puedes borrarlo o puedes apelar si tienes más dudas."
+item_disapproved = "Este video fue retirado debido a la violación de las pautas de la comunidad. Si tienes alguna pregunta, ponte en contacto con contact@newclapper.com."
+item_deleted = "El creador borró el video."
+item_update_to_watch = "Debes actualizar Clapper para ver este video."
+item_unlock_not_available = "Esta función no está disponible, el video no puede ser desbloqueado."
+item_not_unlocked = "Video no desbloqueado"
+user_blocked = "Ha bloqueado a este usuario y no puede ver los videos y comentarios de este usuario."
+blocked_by_you_profile = "Has sido bloqueado por este usuario y no puedes ver sus videos y comentarios."
+video_not_allow_download = "Esta función no está disponible, el video no puede ser desbloqueado."
+
+[music]
+original_sound = "Sonido original"
+unknown_creator = "Creador desconocido"
+sound_alleged_copyright = "El sonido alega violaciones de los derechos de autor"
+name_exists = "El nombre ya existe."
+tag_id_error = "Error de tag_id"
+unusable_sound = "Sonido inutilizable."
+
+[error]
+unexpected_error = "Se ha producido un error inesperado. Vuelve a intentarlo más tarde."
+
+[series]
+discount_text = "Desbloquea episodios posteriores con un 90 % de descuento"
+insufficient_balance = "Saldo insuficiente"
+
+[user]
+not_exist = "Este usuario no existe."
+alert = "Tu cuenta ha sido desactivada por infringir nuestras políticas. Ponte en contacto con contact@clapperapp.com para obtener más información."
+token_expired = "Tu sesión ha expirado. Por favor, inicia sesión de nuevo."
+account_disabled = "Esta cuenta ha sido deshabilitada."
+account_deactivated = "Esta cuenta ha sido desactivada."
+hidden = "Se ha ocultado este usuario."
+wait_sms_verify = "Por motivos de seguridad, necesitamos verificar tu número de teléfono."
