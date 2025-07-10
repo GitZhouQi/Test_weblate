@@ -1,7 +1,0 @@
-test="test trans fr"
-test_name="test trans fr {{.name}}"
-
-
-Message01="Message 01(fr)"
-Message02="Message 02(fr)"
-error_msg="error_msg fr"
